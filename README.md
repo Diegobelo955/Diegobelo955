@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Diegobelo955
-- 👀 I’m interested in Data analysis
+- 👀 I’m interested in Programming/Math
 - 🌱 I’m currently learning Computer Science at Universidade Federal do Rio de Janeiro
-- 💞️ I’m looking to collaborate on analytics projects
 - 📫 How to reach me my e-mail is diego.belo955@gmail.com
 
 <!---
